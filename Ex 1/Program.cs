@@ -26,7 +26,7 @@ namespace Ex_1
                 Console.Write($"{a} ");
             }
 
-
+            
             Console.WriteLine("\n Insert sort: ");
             // int[] arrayInt = { 13, 41, 94, 5, 12, 54, 66, 41, 95};
             int min;
